@@ -14,7 +14,7 @@
   <a href="https://twitter.com/dhaw4l" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dhaw4l" height="30" width="40"/>
   </a>
-  <a href="https://linkedin.com/in/dhawal-shinde-3933362b2" target="blank">
+  <a href="https://linkedin.com/in/dhawalshinde" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhawal-shinde-3933362b2" height="30" width="40"/>
   </a>
   <a href="https://www.codechef.com/users/dh4wall" target="blank">
