@@ -91,3 +91,15 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   </a>
 </p>
+
+<div align="center" style="background-color: #0d1117; padding: 20px; border-radius: 10px; color: white;">
+  <p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dh4wall&show_icons=true&locale=en&layout=compact&theme=dark" alt="dh4wall" />
+  </p>
+  <p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=dh4wall&show_icons=true&locale=en&theme=dark" alt="dh4wall" />
+  </p>
+  <p>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dh4wall&theme=dark" alt="dh4wall" />
+  </p>
+</div>
