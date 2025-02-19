@@ -7,7 +7,7 @@
 - 🎓 Sophomore at Pune Institute of Computer Technology  
 - 🌱 I’m currently learning **Web 3.0**  
 - 📧 How to reach me: **dhawalshinde14@gmail.com**  
-- ⚡ Achievements: **2⭐ @CodeChef (max 1485)**
+- ⚡ Achievements: **3⭐ @CodeChef (max 1606) , Pupil @CodeForces(max 1213) **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
