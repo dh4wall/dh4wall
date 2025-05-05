@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Dhawal Shinde</h1>
 <h3 align="center">
-  A passionate developer (MERN) and Competitive Programmer from India
+  A passionate developer and Competitive Programmer from India
 </h3>
 <img align="right" alt="coding" width="300" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDloZmd2bHo5MHZ1NXg0NWs0cHJ1NjFiemFhejZ3d3BibTB6bDgwYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif" >
 
 - 🎓 Sophomore at Pune Institute of Computer Technology  
 - 🌱 I’m currently learning **Web 3.0**  
 - 📧 How to reach me: **dhawalshinde14@gmail.com**  
-- ⚡ Achievements: **3⭐ @CodeChef (max 1606) , Pupil @CodeForces(max 1213) **
+- ⚡ Achievements: **3⭐ @CodeChef (max 1606) , Pupil @CodeForces(max 1366) **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
