@@ -1,29 +1,9 @@
+<p align="center">
+  <img src="https://github.com/NuroDev/NuroDev/raw/6f0d0a8cff5c44aea2d4f24d949f692ee54002de/bar.gif" alt="rainbow bar" width="100%" height="6" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Dhawal Shinde</h1>
 <h3 align="center">🚀 A passionate Developer & Competitive Programmer from India</h3>
-
-<!-- RGB animated strip -->
-<p align="center">
-  <svg width="100%" height="6">
-    <defs>
-      <linearGradient id="rainbow" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="#ff0000">
-          <animate attributeName="stop-color" values="#ff0000;#ffa500;#ffff00;#008000;#0000ff;#4b0082;#ee82ee;#ff0000" dur="7s" repeatCount="indefinite" />
-        </stop>
-        <stop offset="100%" stop-color="#ff0000">
-          <animate attributeName="stop-color" values="#ff0000;#4b0082;#0000ff;#008000;#ffff00;#ffa500;#ff0000" dur="7s" repeatCount="indefinite" />
-        </stop>
-      </linearGradient>
-    </defs>
-    <rect width="100%" height="6" fill="url(#rainbow)" />
-  </svg>
-</p>
-
-<!-- Visitor count badge -->
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=dh4wall.dh4wall" alt="Visitor Count" />
-</p>
-
----
 
 <p align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDloZmd2bHo5MHZ1NXg0NWs0cHJ1NjFiemFhejZ3d3BibTB6bDgwYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif" width="300" alt="coding gif" />
@@ -82,8 +62,15 @@
 
 ---
 
+<h3 align="center">👥 Visitors</h3>
+<p align="center">
+  <img src="https://profile-counter.glitch.me/dh4wall/count.svg" alt="visitor count" />
+</p>
+
+---
+
 <h3 align="center">🐍 Contribution Snake</h3>
 
-<p align="center" style="border: 4px solid; border-image-slice: 1; border-width: 4px; border-image-source: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red); border-radius: 15px; display: inline-block;">
-  <img src="https://raw.githubusercontent.com/dh4wall/dh4wall/output/github-contribution-grid-snake-dark.svg" width="700" alt="contribution snake" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dh4wall/dh4wall/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
 </p>
