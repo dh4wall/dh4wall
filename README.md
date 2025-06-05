@@ -1,21 +1,19 @@
 <h1 align="center">Hi 👋, I'm <span style="color: #00ffee;">Dhawal Shinde</span></h1>
-<h3 align="center">
-  🚀 A passionate Developer & Competitive Programmer from India
-</h3>
+<h3 align="center">🚀 A passionate Developer & Competitive Programmer from India</h3>
 
 <p align="center">
   <img src="https://count.getloli.com/get/@dh4wall?theme=gelbooru-h" alt="Profile Views" />
 </p>
 
 <p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDloZmd2bHo5MHZ1NXg0NWs0cHJ1NjFiemFhejZ3d3BibTB6bDgwYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif" width="300" alt="coding gif" style="border-radius:12px;"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDloZmd2bHo5MHZ1NXg0NWs0cHJ1NjFiemFhejZ3d3BibTB6bDgwYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif" width="300" alt="coding gif" style="border-radius:12px;" />
 </p>
 
 ---
 
-- 🎓 Sophomore at **Pune Institute of Computer Technology**
-- 🌱 Currently learning **Web 3.0**
-- 📧 Reach me at: **dhawalshinde14@gmail.com**
+- 🎓 Sophomore at **Pune Institute of Computer Technology**  
+- 🌱 Currently learning **Web 3.0**  
+- 📧 Reach me at: **dhawalshinde14@gmail.com**  
 - ⚡ Achievements: **3⭐ @CodeChef (max 1606), Pupil @Codeforces (max 1366)**
 
 ---
@@ -43,25 +41,28 @@
 
 <h3 align="left">🛠️ Languages and Tools</h3>
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,python,c,html,css,js,ts,react,redux,nodejs,express,mongodb,postgres,git,linux,tailwind,postman,bootstrap" /><br><br>
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,html,css,js,ts,react,redux,nodejs,express,mongodb,postgres,git,linux,tailwind,postman,bootstrap" />
+</p>
 
 ---
 
-<h2 align="center" style="color: #00ffee; text-shadow: 0 0 10px #0ff;">📊 GitHub Stats</h2>
+<h2 align="center" style="color: #00ffee;">📊 GitHub Stats</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dh4wall&show_icons=true&theme=radical&hide_border=true" width="45%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dh4wall&layout=compact&theme=radical&hide_border=true" width="45%" />
 </div>
+
 <br>
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=dh4wall&theme=radical&hide_border=true" width="90%" />
 </div>
 
 ---
 
-<h3 align="center">✨ RGB Footer Strip</h3>
+<h3 align="center">✨ GitHub Contribution Snake</h3>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/dh4wall/dh4wall/output/github-contribution-grid-snake-dark.svg" alt="snake gif" />
 </p>
