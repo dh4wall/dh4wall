@@ -60,9 +60,10 @@
 
 ---
 
-<h3 align="center">🐍 Contribution Snake (Rainbow Trail)</h3>
+<h3 align="center">🐍 Contribution Snake</h3>
 
-<p align="center">
-  <img src="https://platane.github.io/snk/images/github-contribution-grid-snake-rainbow.gif" width="700" alt="rainbow contribution snake gif"/>
+<p align="center" style="border: 4px solid; border-image-slice: 1; border-width: 4px; border-image-source: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red); border-radius: 15px; display: inline-block;">
+  <img src="https://raw.githubusercontent.com/dh4wall/dh4wall/output/github-contribution-grid-snake-dark.svg" width="700" alt="contribution snake" />
 </p>
+
 
