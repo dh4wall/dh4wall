@@ -58,8 +58,11 @@
 
 ---
 
+---
+
 <h3 align="center">🐍 Contribution Snake (Rainbow Trail)</h3>
 
 <p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-rainbow.gif" width="700" alt="rainbow contribution snake gif"/>
+  <img src="https://platane.github.io/snk/images/github-contribution-grid-snake-rainbow.gif" width="700" alt="rainbow contribution snake gif"/>
 </p>
+
