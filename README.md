@@ -1,105 +1,67 @@
-<h1 align="center">Hi 👋, I'm Dhawal Shinde</h1>
+<h1 align="center">Hi 👋, I'm <span style="color: #00ffee;">Dhawal Shinde</span></h1>
 <h3 align="center">
-  A passionate developer and Competitive Programmer from India
+  🚀 A passionate Developer & Competitive Programmer from India
 </h3>
-<img align="right" alt="coding" width="300" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDloZmd2bHo5MHZ1NXg0NWs0cHJ1NjFiemFhejZ3d3BibTB6bDgwYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif" >
 
-- 🎓 Sophomore at Pune Institute of Computer Technology  
-- 🌱 I’m currently learning **Web 3.0**  
-- 📧 How to reach me: **dhawalshinde14@gmail.com**  
-- ⚡ Achievements: **3⭐ @CodeChef (max 1606) , Pupil @CodeForces(max 1366) **
+<p align="center">
+  <img src="https://count.getloli.com/get/@dh4wall?theme=gelbooru-h" alt="Profile Views" />
+</p>
 
-<h3 align="left">Connect with me:</h3>
+<p align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDloZmd2bHo5MHZ1NXg0NWs0cHJ1NjFiemFhejZ3d3BibTB6bDgwYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif" width="300" alt="coding gif" style="border-radius:12px;"/>
+</p>
+
+---
+
+- 🎓 Sophomore at **Pune Institute of Computer Technology**
+- 🌱 Currently learning **Web 3.0**
+- 📧 Reach me at: **dhawalshinde14@gmail.com**
+- ⚡ Achievements: **3⭐ @CodeChef (max 1606), Pupil @Codeforces (max 1366)**
+
+---
+
+<h3 align="left">🌐 Connect with me</h3>
 <p align="left">
-  <a href="https://twitter.com/dhaw4l" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dhaw4l" height="30" width="40"/>
+  <a href="https://twitter.com/dhaw4l" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/dhawalshinde" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhawal-shinde-3933362b2" height="30" width="40"/>
+  <a href="https://linkedin.com/in/dhawalshinde" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.codechef.com/users/dh4wall" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="dh4wall" height="30" width="40"/>
+  <a href="https://www.codechef.com/users/dh4wall" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
   </a>
-  <a href="https://codeforces.com/profile/dh4wall" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="dh4wall" height="30" width="40"/>
+  <a href="https://codeforces.com/profile/dh4wall" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
   </a>
-  <a href="https://www.leetcode.com/DhawalShinde" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dh4wall" height="30" width="40"/>
-  </a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left" style="display: flex; flex-wrap: wrap; gap: 15px;">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  </a>
-
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.qt.io/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/>
-  </a>
-
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  <a href="https://leetcode.com/DhawalShinde" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
 </p>
 
-<div align="center" style="background-color: #0d1117; padding: 20px; border-radius: 10px; color: white;">
-  <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dh4wall&show_icons=true&locale=en&layout=compact&theme=dark" alt="dh4wall" />
-  </p>
-  <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=dh4wall&show_icons=true&locale=en&theme=dark" alt="dh4wall" />
-  </p>
-  <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dh4wall&theme=dark" alt="dh4wall" />
-  </p>
+---
+
+<h3 align="left">🛠️ Languages and Tools</h3>
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,python,c,html,css,js,ts,react,redux,nodejs,express,mongodb,postgres,git,linux,tailwind,postman,bootstrap" /><br><br>
 </div>
+
+---
+
+<h2 align="center" style="color: #00ffee; text-shadow: 0 0 10px #0ff;">📊 GitHub Stats</h2>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dh4wall&show_icons=true&theme=radical&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dh4wall&layout=compact&theme=radical&hide_border=true" width="45%" />
+</div>
+<br>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=dh4wall&theme=radical&hide_border=true" width="90%" />
+</div>
+
+---
+
+<h3 align="center">✨ RGB Footer Strip</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dh4wall/dh4wall/output/github-contribution-grid-snake-dark.svg" alt="snake gif" />
+</p>
