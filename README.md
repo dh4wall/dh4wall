@@ -14,7 +14,9 @@
 - 🎓 Sophomore at **Pune Institute of Computer Technology**  
 - 🌱 Currently exploring **Web 3.0**  
 - 📧 Reach me at: **dhawalshinde14@gmail.com**  
-- ⚡ Achievements: **3⭐ @CodeChef (max 1606)**, **Pupil @Codeforces (max 1366)**
+- ⚡ Achievements:
+- **3⭐ @CodeChef (max 1606)**
+- **Pupil @Codeforces (max 1366)**
 
 ---
 
