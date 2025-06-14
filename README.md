@@ -45,7 +45,7 @@
 <h3 align="left">🛠️ Languages & Tools</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,html,css,js,ts,react,nextjs,redux,nodejs,express,mongodb,postgres,prisma,drizzle,supabase,docker,threejs,canvas,git,linux,tailwind,postman,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,html,css,js,ts,react,nextjs,redux,nodejs,express,mongodb,postgres,prisma,supabase,docker,threejs,git,linux,tailwind,postman,bootstrap" />
 </p>
 
 ---
