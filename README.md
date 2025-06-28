@@ -16,7 +16,7 @@
 - 📧 Reach me at: **dhawalshinde14@gmail.com**  
 - ⚡ Achievements:
 - **3⭐ @CodeChef (max 1606)**
-- **Pupil @Codeforces (max 1366)**
+- **Specialist @Codeforces (max 1422)**
 
 ---
 
