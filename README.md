@@ -5,27 +5,20 @@
 <h1 align="center">Hi 👋, I'm Dhawal Shinde</h1>
 <h3 align="center">🚀 A passionate Developer & Competitive Programmer from India</h3>
 
-<<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 30px; flex-wrap: wrap;">
+<p align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDloZmd2bHo5MHZ1NXg0NWs0cHJ1NjFiemFhejZ3d3BibTB6bDgwYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif" width="300" alt="coding gif" />
+</p>
 
-  <div align="left">
-    <ul>
-      <li>🎓 Sophomore at <strong>Pune Institute of Computer Technology</strong></li>
-      <li>🌱 Currently exploring <strong>Web 3.0</strong></li>
-      <li>📧 Reach me at: <strong>dhawalshinde14@gmail.com</strong></li>
-      <li>⚡ Achievements:
-        <ul>
-          <li><strong>3⭐ @CodeChef</strong> (max 1606)</li>
-          <li><strong>Specialist @Codeforces</strong> (max 1422)</li>
-        </ul>
-      </li>
-    </ul>
-  </div>
+---
 
-  <div align="right">
-    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDloZmd2bHo5MHZ1NXg0NWs0cHJ1NjFiemFhejZ3d3BibTB6bDgwYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif" width="300" alt="coding gif" />
-  </div>
+- 🎓 Sophomore at **Pune Institute of Computer Technology**  
+- 🌱 Currently exploring **Web 3.0**  
+- 📧 Reach me at: **dhawalshinde14@gmail.com**  
+- ⚡ Achievements:
+- **3⭐ @CodeChef (max 1606)**
+- **Specialist @Codeforces (max 1422)**
 
-</div>
+---
 
 <h3 align="left">🌐 Connect with me</h3>
 
