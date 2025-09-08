@@ -35,7 +35,7 @@
   <a href="https://codeforces.com/profile/dh4wall" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
   </a>
-  <a href="https://leetcode.com/DhawalShinde" target="_blank">
+  <a href="https://leetcode.com/dh4wall" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
 </p>
