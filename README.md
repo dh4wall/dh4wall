@@ -11,7 +11,7 @@
 
 ---
 
-- 🎓 Sophomore at **Pune Institute of Computer Technology**  
+- 🎓 Student at **Pune Institute of Computer Technology**  
 - 🌱 Currently exploring **Web 3.0**  
 - 📧 Reach me at: **dhawalshinde14@gmail.com**  
 - ⚡ Achievements:
